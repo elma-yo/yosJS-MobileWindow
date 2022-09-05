@@ -20,3 +20,15 @@ body {
     right: 0;
     left: 0;
 }
+
+#modle {
+    background: #fff;
+    width: 200px;
+    padding: 20px;
+    border-radius: 4px;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
